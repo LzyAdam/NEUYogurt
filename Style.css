@@ -1,7 +1,8 @@
 body{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    background-image: linear-gradient(to bottom right,#0cf498,#0cf4e1);
+    /*background-image: linear-gradient(to bottom right,#0cf498,#0cf4e1);*/
+    background-image: linear-gradient(rgb(30, 209, 170),#24c062 );
 }
 h1{
     font-family: 'Abril Fatface', cursive;
